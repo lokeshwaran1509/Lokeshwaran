@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwaran1509&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwaran1509" /> </p>
 
 - 🔭 I’m currently working on **AI/ML and Robotics**
+- 🧠 From smart gadgets to AI magic, I enjoy turning ideas into things that actually work (most of the time 😄).
+- ⚙️ I’m all about real-time, hands-on, let’s-make-it-happen kind of projects.
+- 📡 If it involves sensors, machine learning, or a wild hardware hack — count me in!
+- 🚀 Always building, always learning, and always up for a new challenge! 💻✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
